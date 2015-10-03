@@ -1,6 +1,8 @@
 # bbpress-case-tracker
 Case tracker for BBPress and WordPress
 
+Документация: https://github.com/systemo-biz/bbpress-case-tracker/wiki
+
 Позволеяет коорденировать и обсуждать задачи клиентом. Максимально просто и интуитивно понятно.
 
 
